@@ -17,13 +17,9 @@ console.log("Latest Update");
 // I am fixing some Bug
 console.log("Bug Fixed");
 
+<<<<<<< HEAD
 console.log("update made successufully");
 
 console.log("a new feature is added");
 console.log("customer like it");
-
-console.log("upadte has come of that feature");
-console.log("customer dont like it");
-
-
 
