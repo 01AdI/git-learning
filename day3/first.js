@@ -17,7 +17,7 @@ console.log("Latest Update");
 // I am fixing some Bug
 console.log("Bug Fixed");
 
-<<<<<<< HEAD
+
 console.log("update made successufully");
 
 console.log("a new feature is added");
