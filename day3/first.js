@@ -18,3 +18,7 @@ console.log("Latest Update");
 console.log("Bug Fixed");
 
 console.log("update made successufully");
+
+console.log("a new feature is added");
+console.log("customer like it");
+
