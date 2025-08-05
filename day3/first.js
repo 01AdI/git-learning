@@ -32,3 +32,6 @@ console.log("payment added");
 console.log("upi added");
 
 console.log("file update");
+
+// i am fixing the bugs
+console.log("bug fixed");
