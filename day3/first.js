@@ -23,4 +23,8 @@ console.log("update made successufully");
 console.log("a new feature is added");
 console.log("customer like it");
 
+<<<<<<< HEAD
 console.log("footer added");
+=======
+console.log("payment added");
+>>>>>>> dd3dd70 (payment added)
