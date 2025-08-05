@@ -23,3 +23,4 @@ console.log("update made successufully");
 console.log("a new feature is added");
 console.log("customer like it");
 
+console.log("footer added");
