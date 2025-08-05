@@ -28,3 +28,6 @@ console.log("footer added");
 =======
 console.log("payment added");
 >>>>>>> dd3dd70 (payment added)
+
+
+console.log("upi added");
